@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyNews</string>
+    //warning messages string
+    <string name="empty_warning_message">No News  Found!.</string>
+    <string name="internet_warning_message">No Internet Connection!.</string>
+    //date query key and value to add in Uri.Builder
+    <string name="date_query_key">from-date</string>
+    <string name="date_query_value">2019-01-01</string>
+    //query paramter for http request
+    <string name="main_query_key">q</string>
+    <string name="api_key">api-key</string>
+    //name for setting activity
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    //category label and default key and value
+    <string name="setting_category_label">Category</string>
+    <string name="settings_category_key">debate</string>
+    <string name="settings_category_default" translatable="false">@string/debate_value</string>
+    //debate category label,key,value
+    <string name="debate_label">Debate</string>
+    <string name="debate_key">debate</string>
+    <string name="debate_value" translatable="false">debate</string>
+   //sports cetegory label,key,value
+    <string name="sports_label">Sports</string>
+    <string name="sports_key">sports</string>
+    <string name="sports_value" translatable="false">sports</string>
+    //healthcare cetegory label,key,value
+    <string name="healthcare_label">Health Care</string>
+    <string name="healthcare_key">healthcare</string>
+    <string name="healthcare_value" translatable="false">healthcare</string>
+    //Economy cetegory label,key,value
+    <string name="economy_key">economy</string>
+    <string name="economy_label">Economy</string>
+    <string name="economy_value" translatable="false">economy</string>
+   //Agriculture cetegory label,key,value
+    <string name="agri_label">Agriculture</string>
+    <string name="agri_key">agriculture</string>
+    <string name="agri_value" translatable="false">agriculture</string>
+    //Politics cetegory label,key,value
+    <string name="politics_label">Politics</string>
+    <string name="politics_key">politics</string>
+    <string name="politics_value" translatable="false">politics</string>
+</resources>

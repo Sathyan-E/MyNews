@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_category_labels">
+        <item>@string/politics_label</item>
+        <item>@string/agri_label</item>
+        <item>@string/debate_label</item>
+        <item>@string/healthcare_label</item>
+        <item>@string/sports_label</item>
+        <item>@string/economy_label</item>
+    </string-array>
+
+    <string-array name="settings_category_values">
+        <item>@string/politics_value</item>
+        <item>@string/agri_value</item>
+        <item>@string/debate_value</item>
+        <item>@string/healthcare_value</item>
+        <item>@string/sports_value</item>
+        <item>@string/economy_value</item>
+    </string-array>
+</resources>
